@@ -260,94 +260,26 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 
 #咪咕体育/44个频道
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播4K-1
-http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播4K-2
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
+
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-1
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-2
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-3
-http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-4
-http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-5
-http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-6
-http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-7
-http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-8
-http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-9
-http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-10
-http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-11
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-12
+#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-2
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-13
-http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-14
-http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-15
-http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-16
-http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-17
-http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-18
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-19
-http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-20
-http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-21
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-22
-http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-23
-http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-24
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-25
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-26
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-27
-http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-28
-http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-29
-http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-30
-http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-31
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-32
+#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-3
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-33
-http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-34
+#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-4
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-35
-http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-36
-http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-37
-http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-38
-http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-39
-http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-40
-http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-41
-http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-42
+#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-5
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-name="全民热练" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚「IPV6」
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛「IPV6」
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜「IPV6」
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+
 
 #台湾频道
 #EXTINF:-1 tvg-id="Good2.tw" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="台湾",Good 2
@@ -391,4 +323,203 @@ https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 #EXTINF:-1 tvg-id="ETMall60.tw" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="台湾",ET Mall 60
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 
+#EXTINF:-1 group-title="•韩国「KO」",TJB
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",Job Plus TV
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",Arirang 阿里郎
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",KBS 1
+https://tv.iill.top/kbs/11&p=0
+#EXTINF:-1 group-title="•韩国「KO」",KBS 2
+https://tv.iill.top/kbs/12&p=0
+#EXTINF:-1 group-title="•韩国「KO」",BBS 불교 방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",CJ OnStyle Plus
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",CTS 基督教기독교TV
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",EBS+ 1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",EBS+ 2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+#EXTINF:-1 group-title="•韩国「KO」",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+#EXTINF:-1 group-title="•韩国「KO」",EBS 키즈
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+#EXTINF:-1 group-title="•韩国「KO」",Job Plus tv
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
+#EXTINF:-1 group-title="•韩国「KO」",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",Gugak TV
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",KBC SBS 综艺
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 group-title="•韩国「KO」",KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 group-title="•韩国「KO」",KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 group-title="•韩国「KO」",KBS LIFE
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 group-title="•韩国「KO」",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 group-title="•韩国「KO」",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",KCTV 광주
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",SBS
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「KO」",국방国防TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="日テレNEWS24HD" tvg-logo="https://epg.iill.top/logo/日テレNEWS24.png" group-title="•日本「JP」",日テレNEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-name="JSPORTS1HD" tvg-logo="https://epg.iill.top/logo/JSPORTS1.png" group-title="•日本「JP」",J SPORTS 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="JSPORTS2HD" tvg-logo="https://epg.iill.top/logo/JSPORTS2.png" group-title="•日本「JP」",J SPORTS 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="JSPORTS3HD" tvg-logo="https://epg.iill.top/logo/JSPORTS3.png" group-title="•日本「JP」",J SPORTS 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="JSPORTS4HD" tvg-logo="https://epg.iill.top/logo/JSPORTS4.png" group-title="•日本「JP」",J SPORTS 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="钓りビジョンHD" tvg-logo="https://epg.iill.top/logo/钓りビジョン.png" group-title="•日本「JP」",釣りビジョン
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="东映チャンネルHD" tvg-logo="https://epg.iill.top/logo/东映チャンネル.png" group-title="•日本「JP」",東映チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="歌谣ポップスチャンネル" tvg-logo="https://epg.iill.top/logo/歌谣ポップスチャンネル.png" group-title="•日本「JP」",歌謡ポップスチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日本映画専门チャンネル　HD" tvg-logo="https://epg.iill.top/logo/日本映画専门チャンネル.png" group-title="•日本「JP」",日本映画専門チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="チャンネル银河　歴史ドラマ・サスペンス・日本のうた" tvg-logo="https://epg.iill.top/logo/チャンネル银河.png" group-title="•日本「JP」",チャンネル銀河
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="映画･チャンネルNECOHD" tvg-logo="https://epg.iill.top/logo/映画･チャンネルNECO.png" group-title="•日本「JP」",映画･チャンネルNECO
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://epg.iill.top/logo/テレビ朝日.png" group-title="•日本「JP」",テレビ朝日
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="テレビ东京" tvg-logo="https://epg.iill.top/logo/テレビ东京.png" group-title="•日本「JP」",テレビ東京
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ファミリー剧场HD" tvg-logo="https://epg.iill.top/logo/ファミリー剧场.png" group-title="•日本「JP」",ファミリー劇場
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://epg.iill.top/logo/フジテレビ.png" group-title="•日本「JP」",フジテレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ホームドラマチャンネルＨＤ韩流・时代剧・国内ドラマ" tvg-logo="https://epg.iill.top/logo/ホームドラマチャンネル.png" group-title="•日本「JP」",ホームドラマチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ムービープラス" tvg-logo="https://epg.iill.top/logo/ムービープラス.png" group-title="•日本「JP」",ムービープラス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日本テレビ" tvg-logo="https://epg.iill.top/logo/日本テレビ.png" group-title="•日本「JP」",日本テレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日テレNEWS24HD" tvg-logo="https://epg.iill.top/logo/日テレNEWS24.png" group-title="•日本「JP」",日テレNEWS24
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日テレジータス HD" tvg-logo="https://epg.iill.top/logo/日テレジータス.png" group-title="•日本「JP」",日テレジータス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="时代剧専门チャンネルHD" tvg-logo="https://epg.iill.top/logo/时代剧専门チャンネル.png" group-title="•日本「JP」",時代劇専門チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="囲碁・将棋チャンネル" tvg-logo="https://epg.iill.top/logo/囲碁・将棋チャンネル.png" group-title="•日本「JP」",囲碁·将棋チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BSアニマックス" tvg-logo="https://epg.iill.top/logo/BSアニマックス.png" group-title="•日本「JP」",BSアニマックス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BSテレ东" tvg-logo="https://epg.iill.top/logo/BSテレ东.png" group-title="•日本「JP」",BSテレ東
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="GAORASPORTSHD" tvg-logo="https://epg.iill.top/logo/GAORASPORTS.png" group-title="•日本「JP」",GAORA SPORT
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="LALATV" tvg-logo="https://epg.iill.top/logo/LALATV.png" group-title="•日本「JP」",LaLaTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="NHKBS4K" tvg-logo="https://epg.iill.top/logo/NHKBS.png" group-title="•日本「JP」",NHK BS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="NHK东京　教育" tvg-logo="https://epg.iill.top/logo/NHK教育.png" group-title="•日本「JP」",NHK教育
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="NHK东京　総合" tvg-logo="https://epg.iill.top/logo/NHK综合.png" group-title="•日本「JP」",NHK総合
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="WOWOWシネマ" tvg-logo="https://epg.iill.top/logo/WOWOWシネマ.png" group-title="•日本「JP」",WOWOWシネマ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="WOWOWプ" tvg-logo="https://epg.iill.top/logo/WOWOWプライム.png" group-title="•日本「JP」",WOWOWプライム
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="WOWOWライブ" tvg-logo="https://epg.iill.top/logo/WOWOWライブ.png" group-title="•日本「JP」",WOWOWライブ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="キッズステーションHD" tvg-logo="https://epg.iill.top/logo/キッズステーション.png" group-title="•日本「JP」",キッズステーション
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ゴルフネットワーク" tvg-logo="https://epg.iill.top/logo/ゴルフネットワーク.png" group-title="•日本「JP」",ゴルフネットワーク
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スーパー" tvg-logo="https://epg.iill.top/logo/スーパー.png" group-title="•日本「JP」",スーパー!ドラマTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スカイA" tvg-logo="https://epg.iill.top/logo/スカイA.png" group-title="•日本「JP」",スカイA
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スターチャンネル1" tvg-logo="https://epg.iill.top/logo/スターチャンネル1.png" group-title="•日本「JP」",スターチャンネル1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スターチャンネル2" tvg-logo="https://epg.iill.top/logo/スターチャンネル2.png" group-title="•日本「JP」",スターチャンネル2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スターチャンネル3" tvg-logo="https://epg.iill.top/logo/スターチャンネル3.png" group-title="•日本「JP」",スターチャンネル3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",音乐石榴「音乐」
+http://live.iill.top/huya.php?id=17091681
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",音乐速递「音乐」
+http://live.iill.top/huya.php?id=19439762
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",治愈•放松「音乐」
+http://live.iill.top/huya.php?id=21241811
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",阅读•学习「音乐」
+http://live.iill.top/huya.php?id=21241813
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电视剧•1「解说」
+http://live.iill.top/huya.php?id=21277391
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电视剧•2「解说」
+http://live.iill.top/huya.php?id=25018873
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•1「解说」
+http://live.iill.top/huya.php?id=20289754
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•2「解说」
+http://live.iill.top/huya.php?id=24983280
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•3「解说」
+http://live.iill.top/huya.php?id=24396428
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",动漫•1「解说」
+http://live.iill.top/huya.php?id=19757963
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",恐怖电影「解说」
+http://live.iill.top/huya.php?id=23419131
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",漫威「解说」
+http://live.iill.top/huya.php?id=17089779
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",美剧「解说」
+http://live.iill.top/huya.php?id=20488841
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",七龙珠「解说」
+http://live.iill.top/huya.php?id=25650806
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",止戈电影「解说」
+http://live.iill.top/huya.php?id=19863777
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",挨饿德•1「其他」
+http://live.iill.top/huya.php?id=20985858
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",挨饿德•2「其他」
+http://live.iill.top/huya.php?id=17693860
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",互扇巴掌大赛「其他」
+http://live.iill.top/huya.php?id=20072873
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",荒野求生「其他」
+http://live.iill.top/huya.php?id=593667
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",野行者「其他」
+http://live.iill.top/huya.php?id=20072663
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",跳舞「其他」
+http://live.iill.top/huya.php?id=24634408
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",茶啊二中「动画」
+http://live.iill.top/huya.php?id=11213191
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",哆啦A梦「动漫」
+http://live.iill.top/huya.php?id=11601963
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",航海王「动漫」
+http://live.iill.top/huya.php?id=16913382
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",七龙珠「动漫」
+http://live.iill.top/huya.php?id=11601966
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",猫和老鼠「动漫」
+http://live.iill.top/huya.php?id=11352879
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",中华小当家「动漫」
+http://live.iill.top/huya.php?id=11342413
