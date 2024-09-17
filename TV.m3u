@@ -271,7 +271,7 @@ http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-5
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-name="全民热练" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕",咪咕直播-6
+#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕",咪咕直播-6
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕",咪咕直播-7
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
